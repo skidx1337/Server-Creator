@@ -28,4 +28,5 @@ Install these libraries by running:
 2. 2. Install the required dependencies using `pip`.
 
 ## Usage
-1. Run the script using:python creator.py
+1. Run the script using:
+2. `python creator.py`
